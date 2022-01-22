@@ -1,6 +1,7 @@
 # DataScience-Demo-2022
 This is my portfolio project
 
+[![Python application test with Github Actions](https://github.com/noahgift/DataScience-Demo-2022/actions/workflows/main.yml/badge.svg)](https://github.com/noahgift/DataScience-Demo-2022/actions/workflows/main.yml)
 
 ## Background
 
